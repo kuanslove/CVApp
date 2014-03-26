@@ -1,5 +1,6 @@
+
 CvApp
-=====
+
 
 My Android Version CV with NavDrawer for Job application
 
@@ -8,4 +9,3 @@ I am looking for a job in Mobile App developer area, so I made this app as my ap
 
 Kuan Xing
 kuanslove@gmail.com
-
