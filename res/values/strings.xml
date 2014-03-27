@@ -9,15 +9,66 @@
 
     <string-array name="cv_items_array">
         <item>SUMMARY</item>
-        <item>EXPERIENCE</item>
+        <item>PROJECT</item>
         <item>EDUCATION</item>
-        <item>ABOUT</item>
+        <item>CONTACT</item>
     </string-array>
     <string-array name="item_intro_array">
-        <item>This is Summary\nthis is second line of Summary</item>
-        <item>This is Exp</item>
-        <item>This is Edu</item>
-        <item>This is Contact</item>
+        <item>            SUMMARY\n\n
+            [1] M.S graduate in Computer Engineering whose interest involves Web/Mobile Application development\n
+            \n
+            [2] 2 semesters (8 months) internship as software developer with individual project and team work accomplished\n
+            \n
+            [3] Skillset includes Linux/Windows, Java, AndroidSDK, C/C++, OpenGL, Python, HTML5, JavaScript, jQuery/jQueryMobile, Ajax, XML, JSON, BootStrap, NodeJS, CSS, LibGDX, SQL, Git, AMAZON-EC2, Apache</item>
+        <item>
+            PROJECT\n\n\n
+            SRS PHARMACY, Inc\n
+            Jan 2013 - Aug 2013\n\n
+			[1] Developed patient signature conversion and exportation tool using C++, PostgreSQL,
+			LibGD. This tool can fetch patient signature stroke data from database, generate graphic
+			files with specific size and package them with CVS format summary table.\n\n
+			[2] Developed patient SMS informing GUI module using C++, PostgreSQL, wxWidgets. This
+			tool provides user graphical interface to input SMS message for patient informing. It uses
+			existing system interface to create/retrieve SMS history.\n\n
+			[3] Developed Online Grocery Store whole website using NodeJS ( ExpressJS, PG), HTML5,
+			jQuery, CSS, PostgreSQL. This website implements Ajax and HTML5 front-end file
+			processing feature to reduce back-end pressure and enhance user experience. The entire
+			website includes Customer view and Admin view, which allows owner of the website to
+			manage product and user info easily.\n+++Demo---: https://github.com/kuanslove/OGS\n\n
+			
+			\n\n
+			HUSKY GAME DEV ENTERPRISE\n
+			Sep 2013 - Dec 2013\n\n
+			[1] Developed Android Tablet Driving Game for Chrysler MindTrekker program using Android Java SDK, 
+			LibGDX Physics Engine. Project was divided into teams which are coding, UI design, sound effect. 
+			My function is self-study of AndroidSDK, LibGDX Physics Engine to implement building game elements 
+			Physical body and processing user gesture control and working with other coding team member
+			via Git source control system.\n+++Demo---: https://github.com/kuanslove/TeamChrysler\n
+			
+			
+			
+		</item>
+        <item>EDUCATION\n\n\n
+            [1] Michigan Technological University\n
+            \n
+            M.S in Computer Engineering\n
+            Sep 2011 - Dec 2013\n
+            MI, USA
+            \n\n\n\n\n
+            [2] Civil Aviation University of China\n\n
+            Sep 2003 ~ May 2007\n
+            B.S in Electronic Information Engineering\n
+            Tianjin, China
+
+        </item>
+        <item>
+            CONTACT\n\n\n
+            Email   : kuanslove@gmail.com\n\n
+            Mobile  : (206)605-7679\n\n
+            Page    : http://www.ee.mtu.edu/~kxing\n\n
+            GitHub  : https://github.com/kuanslove\n\n
+            LinkedIn: Kuan Xing
+        </item>
     </string-array>
 
     <string name="drawer_open">Open navigation drawer</string>
