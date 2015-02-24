@@ -9,3 +9,6 @@ I am looking for a job in Mobile App developer area, so I made this app as my ap
 
 Kuan Xing
 kuanslove@gmail.com
+
+
+![Alt text](/snapshot.png?raw=true "Optional Title")
